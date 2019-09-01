@@ -1,0 +1,7 @@
+CREATE TABLE `FILES` (
+	`F_ID` INT NOT NULL AUTO_INCREMENT,
+	`F_FILE` MEDIUMBLOB,
+	PRIMARY KEY (`F_ID`)information_schema
+)
+COLLATE='utf8mb4_0900_ai_ci'
+;
